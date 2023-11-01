@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /register.html
+Sitemap: https://pikneon.netlify.app/sitemap.xml
